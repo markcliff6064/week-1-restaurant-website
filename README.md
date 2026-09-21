@@ -35,3 +35,6 @@ This project was created to practice building a complete multi-page responsive w
 ## Location
 
 42 Ngong Road, Kilimani, Nairobi, Kenya
+
+##Author
+MARK MUKAMI
