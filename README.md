@@ -1,7 +1,7 @@
 # Savanna Grill Website
 
 Savanna Grill is a responsive restaurant website for a fictional Kenyan restaurant located in Kilimani, Nairobi.
-
+![Computer view of Savanna Grill Website](https://github.com/markcliff6064/week-1-restaurant-website/blob/34fe622b912f94b380fbf55cdb818f43ba4c8761/Screenshot%20.jpg)
 ## Pages
 
 * Home
@@ -37,4 +37,5 @@ This project was created to practice building a complete multi-page responsive w
 42 Ngong Road, Kilimani, Nairobi, Kenya
 
 ##Author
+
 MARK MUKAMI
